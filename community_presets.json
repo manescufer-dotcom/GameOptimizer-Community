@@ -1,0 +1,13 @@
+{
+  "fortnite_performance_001": {
+    "game_name": "Fortnite",
+    "name": "Máximo Rendimiento (Community)",
+    "description": "Optimización extrema para PCs de bajos recursos.",
+    "author": "Comunidad",
+    "category": "performance",
+    "settings": {
+      "sg.ShadowQuality": "0",
+      "sg.ViewDistanceQuality": "0"
+    }
+  }
+}
