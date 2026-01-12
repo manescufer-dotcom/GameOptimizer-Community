@@ -6,9 +6,9 @@
     "description": "Preset inicial desde la comunidad de GitHub para mejorar FPS.",
     "author": "Admin",
     "category": "performance",
-    "settings": {
-      "sg.ShadowQuality": "0",
-      "sg.ViewDistanceQuality": "1"
-    }
+   "settings": {
+    "sg.ShadowQuality": "0",
+    "sg.ViewDistanceQuality": "1"
+}
   }
 }
