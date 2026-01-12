@@ -1,13 +1,14 @@
 {
-  "fortnite_performance_001": {
+  "fortnite_pro_001": {
+    "id": "fortnite_pro_001",
     "game_name": "Fortnite",
-    "name": "Máximo Rendimiento (Community)",
-    "description": "Optimización extrema para PCs de bajos recursos.",
-    "author": "Comunidad",
+    "name": "Rendimiento Pro (GitHub)",
+    "description": "Preset inicial desde la comunidad de GitHub para mejorar FPS.",
+    "author": "Admin",
     "category": "performance",
     "settings": {
       "sg.ShadowQuality": "0",
-      "sg.ViewDistanceQuality": "0"
+      "sg.ViewDistanceQuality": "1"
     }
   }
 }
